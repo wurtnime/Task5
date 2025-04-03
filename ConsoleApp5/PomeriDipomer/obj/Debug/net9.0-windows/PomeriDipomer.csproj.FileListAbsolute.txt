@@ -1,0 +1,59 @@
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer_MarkupCompile.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.g.resources
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.AssemblyInfo.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.exe
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.deps.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.runtimeconfig.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\refint\PomeriDipomer.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.genruntimeconfig.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\PomeriDipomer\PomeriDipomer\obj\Debug\net9.0-windows\ref\PomeriDipomer.dll
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.exe
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.deps.json
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.runtimeconfig.json
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.dll
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.pdb
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer_MarkupCompile.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.g.resources
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.AssemblyInfoInputs.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.AssemblyInfo.cs
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.csproj.CoreCompileInputs.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.sourcelink.json
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.dll
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\refint\PomeriDipomer.dll
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.pdb
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.genruntimeconfig.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\ref\PomeriDipomer.dll
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.exe
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.deps.json
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.runtimeconfig.json
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.dll
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\bin\Debug\net9.0-windows\PomeriDipomer.pdb
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer_MarkupCompile.cache
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.g.resources
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.AssemblyInfoInputs.cache
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.AssemblyInfo.cs
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.csproj.CoreCompileInputs.cache
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.sourcelink.json
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.dll
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\refint\PomeriDipomer.dll
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.pdb
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\PomeriDipomer.genruntimeconfig.cache
+C:\Users\имя\Desktop\оп\Практика №5\ConsoleApp5\PomeriDipomer\obj\Debug\net9.0-windows\ref\PomeriDipomer.dll
